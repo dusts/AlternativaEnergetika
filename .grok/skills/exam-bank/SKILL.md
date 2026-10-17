@@ -10,7 +10,7 @@ description: >
 
 # Exam bank
 
-`questions.js` is the only source of question wording. The README describes the bank. It does not copy the 71 prompts.
+`questions.js` is the only source of question wording. The README describes the bank in English and then in Latvian. It does not copy the 71 prompts.
 
 ## Bank rules
 
@@ -19,7 +19,7 @@ description: >
 - `explanation` is the Latvian model answer. `explanationEn` is the English model answer. Both are study samples, not an official exam key.
 - Leave `choices` as `[]` and `answer` as `null` unless the user supplies real options. `"A"`–`"D"` and `0`–`3` are the same positions.
 - `topic` is the Latvian group name and the filter key. `topicEn` is the English group name.
-- When the bank changes, update `README.md` so it still matches: bilingual prompts, model answers in both languages, empty choices, `answer` null, and self-marked open questions.
+- When the bank changes, update both README language sections so they still match: bilingual prompts, model answers in both languages, empty choices, `answer` null, and self-marked open questions.
 
 ## Comparing a list
 
