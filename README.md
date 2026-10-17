@@ -4,7 +4,7 @@
 
 Offline exam practice. The app is a folder of files. It does not use the internet, an account, or a server.
 
-`questions.js` holds 71 open exam questions. Each question has the Latvian prompt, an English prompt, and a model answer in both languages. The model answers are study samples, not an official exam key.
+`questions.js` holds 71 open exam questions. Each question has the Latvian prompt, an English prompt, and a model answer in both languages. The model answers are study samples, not an official exam key. They are written at bachelor’s-exam depth: the principle, the reasoning, and the formula and result when the question asks for a calculation.
 
 Open it on a computer or copy the folder to a phone. Marks, flags, language, and the theme stay in that browser.
 
@@ -75,7 +75,7 @@ Questions with no model answer can still be read. They are left out of the score
 
 Bezsaistes treniņš eksāmenam. Lietotne ir failu mape. Tā neizmanto internetu, kontu vai serveri.
 
-`questions.js` ir 71 atvērti eksāmena jautājumi. Katram ir uzdevums latviski, uzdevums angliski un paraugatbilde abās valodās. Paraugatbildes ir mācību paraugi, nevis oficiāla eksāmena atslēga.
+`questions.js` ir 71 atvērti eksāmena jautājumi. Katram ir uzdevums latviski, uzdevums angliski un paraugatbilde abās valodās. Paraugatbildes ir mācību paraugi, nevis oficiāla eksāmena atslēga. Tās ir bakalaura eksāmena dziļumā: princips, pamatojums un, ja jautājums prasa aprēķinu, formula un rezultāts.
 
 Atver datorā vai nokopē mapi uz tālruni. Atzīmes, karodziņi, valoda un gaišais vai tumšais režīms paliek šajā pārlūkā.
 

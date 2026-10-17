@@ -16,7 +16,7 @@ description: >
 
 - Keep ids `1` through `71`. Do not renumber them.
 - `prompt` stays the existing Latvian question. `promptEn` is the English question.
-- `explanation` is the Latvian model answer. `explanationEn` is the English model answer. Both are study samples, not an official exam key.
+- `explanation` is the Latvian model answer. `explanationEn` is the English model answer. Write both at bachelor-exam depth: the principle, the reasoning, and any calculation with its symbols, units, and result. They are study samples, not an official exam key.
 - Leave `choices` as `[]` and `answer` as `null` unless the user supplies real options. `"A"`–`"D"` and `0`–`3` are the same positions.
 - `topic` is the Latvian group name and the filter key. `topicEn` is the English group name.
 - When the bank changes, update both README language sections so they still match: bilingual prompts, model answers in both languages, empty choices, `answer` null, and self-marked open questions.
