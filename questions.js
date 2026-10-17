@@ -25,7 +25,7 @@ window.QUESTIONS = [
   {
     id: 1,
     topic: "",
-    prompt: "Question 1",
+    prompt: "Raksturo saules baterijas darbības principu?",
     choices: ["Choice A", "Choice B", "Choice C", "Choice D"],
     answer: null,
     explanation: ""
@@ -33,7 +33,7 @@ window.QUESTIONS = [
   {
     id: 2,
     topic: "",
-    prompt: "Question 2",
+    prompt: "Ar ko atšķiras saules kolektors no saules paneļa?",
     choices: ["Choice A", "Choice B", "Choice C", "Choice D"],
     answer: null,
     explanation: ""
@@ -41,7 +41,7 @@ window.QUESTIONS = [
   {
     id: 3,
     topic: "",
-    prompt: "Question 3",
+    prompt: "Lai uzstādītu saules paneļu sistēmu, kādas iekārtas ir nepieciešamas?",
     choices: ["Choice A", "Choice B", "Choice C", "Choice D"],
     answer: null,
     explanation: ""
@@ -49,7 +49,7 @@ window.QUESTIONS = [
   {
     id: 4,
     topic: "",
-    prompt: "Question 4",
+    prompt: "Kas ir kombinētais saules kolektors? Kāda ir tā uzbūve?",
     choices: ["Choice A", "Choice B", "Choice C", "Choice D"],
     answer: null,
     explanation: ""
@@ -57,7 +57,7 @@ window.QUESTIONS = [
   {
     id: 5,
     topic: "",
-    prompt: "Question 5",
+    prompt: "Iedomājies, ka tu plāno uzstādīt saules paneļus savā mājā. Ko ņemsi vērā?",
     choices: ["Choice A", "Choice B", "Choice C", "Choice D"],
     answer: null,
     explanation: ""
@@ -65,7 +65,7 @@ window.QUESTIONS = [
   {
     id: 6,
     topic: "",
-    prompt: "Question 6",
+    prompt: "Kādu ietekmi plaša saules enerģijas izmantošana varētu atstāt uz vidi un ekonomiku?",
     choices: ["Choice A", "Choice B", "Choice C", "Choice D"],
     answer: null,
     explanation: ""
@@ -73,7 +73,7 @@ window.QUESTIONS = [
   {
     id: 7,
     topic: "",
-    prompt: "Question 7",
+    prompt: "Kādi faktori ietekmē saules paneļu saražotās elektroenerģijas daudzumu?",
     choices: ["Choice A", "Choice B", "Choice C", "Choice D"],
     answer: null,
     explanation: ""
@@ -81,7 +81,7 @@ window.QUESTIONS = [
   {
     id: 8,
     topic: "",
-    prompt: "Question 8",
+    prompt: "Kā rodas vējš?",
     choices: ["Choice A", "Choice B", "Choice C", "Choice D"],
     answer: null,
     explanation: ""
@@ -89,7 +89,7 @@ window.QUESTIONS = [
   {
     id: 9,
     topic: "",
-    prompt: "Question 9",
+    prompt: "Kā vēja enerģiju pārvērš elektriskajā enerģijā?",
     choices: ["Choice A", "Choice B", "Choice C", "Choice D"],
     answer: null,
     explanation: ""
@@ -97,7 +97,7 @@ window.QUESTIONS = [
   {
     id: 10,
     topic: "",
-    prompt: "Question 10",
+    prompt: "Kādi ir galvenie vēja turbīnu veidi?",
     choices: ["Choice A", "Choice B", "Choice C", "Choice D"],
     answer: null,
     explanation: ""
@@ -105,7 +105,7 @@ window.QUESTIONS = [
   {
     id: 11,
     topic: "",
-    prompt: "Question 11",
+    prompt: "Kurās situācijās būtu piemērotāk izmantot vertikālās ass turbīnu?",
     choices: ["Choice A", "Choice B", "Choice C", "Choice D"],
     answer: null,
     explanation: ""
@@ -113,7 +113,7 @@ window.QUESTIONS = [
   {
     id: 12,
     topic: "",
-    prompt: "Question 12",
+    prompt: "Kādas ir galvenās vēja turbīnas sastāvdaļas?",
     choices: ["Choice A", "Choice B", "Choice C", "Choice D"],
     answer: null,
     explanation: ""
@@ -121,7 +121,7 @@ window.QUESTIONS = [
   {
     id: 13,
     topic: "",
-    prompt: "Question 13",
+    prompt: "Kādi materiāli tiek izmantoti vēja turbīnu lāpstiņu izgatavošanai un kāpēc?",
     choices: ["Choice A", "Choice B", "Choice C", "Choice D"],
     answer: null,
     explanation: ""
@@ -129,7 +129,7 @@ window.QUESTIONS = [
   {
     id: 14,
     topic: "",
-    prompt: "Question 14",
+    prompt: "Turbīnas nominālā jauda ir 5 MW, bet gada laikā tā vidēji darbojas ar 35 % no nominālās jaudas. Cik daudz elektroenerģijas tā saražo gadā?",
     choices: ["Choice A", "Choice B", "Choice C", "Choice D"],
     answer: null,
     explanation: ""
@@ -137,7 +137,7 @@ window.QUESTIONS = [
   {
     id: 15,
     topic: "",
-    prompt: "Question 15",
+    prompt: "Kāpēc vēja turbīna nevar izmantot 100% no vēja kinētiskās enerģijas?",
     choices: ["Choice A", "Choice B", "Choice C", "Choice D"],
     answer: null,
     explanation: ""
@@ -145,7 +145,7 @@ window.QUESTIONS = [
   {
     id: 16,
     topic: "",
-    prompt: "Question 16",
+    prompt: "Tev jāizvēlas starp divām turbīnām: viena ar lielāku rotora diametru, otra ar lielāku nominālo jaudu. Kādus parametrus Tu salīdzinātu?",
     choices: ["Choice A", "Choice B", "Choice C", "Choice D"],
     answer: null,
     explanation: ""
@@ -153,7 +153,7 @@ window.QUESTIONS = [
   {
     id: 17,
     topic: "",
-    prompt: "Question 17",
+    prompt: "Ja vēja ātrums palielinās no 5 m/s līdz 10 m/s, kā teorētiski mainās vēja pieejamā jauda?",
     choices: ["Choice A", "Choice B", "Choice C", "Choice D"],
     answer: null,
     explanation: ""
@@ -161,7 +161,7 @@ window.QUESTIONS = [
   {
     id: 18,
     topic: "",
-    prompt: "Question 18",
+    prompt: "Nosauc un raksturo HES veidus.",
     choices: ["Choice A", "Choice B", "Choice C", "Choice D"],
     answer: null,
     explanation: ""
@@ -169,7 +169,7 @@ window.QUESTIONS = [
   {
     id: 19,
     topic: "",
-    prompt: "Question 19",
+    prompt: "Uzzīmējiet vienkāršotu HES shēmu un norādiet ūdens plūsmas virzienu.",
     choices: ["Choice A", "Choice B", "Choice C", "Choice D"],
     answer: null,
     explanation: ""
@@ -177,7 +177,7 @@ window.QUESTIONS = [
   {
     id: 20,
     topic: "",
-    prompt: "Question 20",
+    prompt: "Izskaidro HES darbības principu no ūdens ieplūdes līdz elektroenerģijas nodošanai tīklā.",
     choices: ["Choice A", "Choice B", "Choice C", "Choice D"],
     answer: null,
     explanation: ""
@@ -185,7 +185,7 @@ window.QUESTIONS = [
   {
     id: 21,
     topic: "",
-    prompt: "Question 21",
+    prompt: "Kāpēc HES nepieciešams kritums?",
     choices: ["Choice A", "Choice B", "Choice C", "Choice D"],
     answer: null,
     explanation: ""
@@ -193,7 +193,7 @@ window.QUESTIONS = [
   {
     id: 22,
     topic: "",
-    prompt: "Question 22",
+    prompt: "Kāda ir atšķirība starp caurplūdes HES un akumulējošo HES?",
     choices: ["Choice A", "Choice B", "Choice C", "Choice D"],
     answer: null,
     explanation: ""
@@ -201,7 +201,7 @@ window.QUESTIONS = [
   {
     id: 23,
     topic: "",
-    prompt: "Question 23",
+    prompt: "Nosauc un raksturo vismaz 4 turbīnu veidus.",
     choices: ["Choice A", "Choice B", "Choice C", "Choice D"],
     answer: null,
     explanation: ""
@@ -209,7 +209,7 @@ window.QUESTIONS = [
   {
     id: 24,
     topic: "",
-    prompt: "Question 24",
+    prompt: "Kā aprēķina lietderības koeficients η?",
     choices: ["Choice A", "Choice B", "Choice C", "Choice D"],
     answer: null,
     explanation: ""
@@ -217,7 +217,7 @@ window.QUESTIONS = [
   {
     id: 25,
     topic: "",
-    prompt: "Question 25",
+    prompt: "HES ir Q = 120 m³/s un H = 15 m. Aprēķiniet teorētiski pieejamo hidrojaudu.",
     choices: ["Choice A", "Choice B", "Choice C", "Choice D"],
     answer: null,
     explanation: ""
@@ -225,7 +225,7 @@ window.QUESTIONS = [
   {
     id: 26,
     topic: "",
-    prompt: "Question 26",
+    prompt: "Kas ir plūdmaiņas, un kādi galvenie dabas spēki tās izraisa?",
     choices: ["Choice A", "Choice B", "Choice C", "Choice D"],
     answer: null,
     explanation: ""
@@ -233,7 +233,7 @@ window.QUESTIONS = [
   {
     id: 27,
     topic: "",
-    prompt: "Question 27",
+    prompt: "Kādi ir galvenie plūdmaiņu elektrostacijas tehniskie elementi?",
     choices: ["Choice A", "Choice B", "Choice C", "Choice D"],
     answer: null,
     explanation: ""
@@ -241,7 +241,7 @@ window.QUESTIONS = [
   {
     id: 28,
     topic: "",
-    prompt: "Question 28",
+    prompt: "Kāpēc lielāka ūdens līmeņu starpība parasti nozīmē lielāku pieejamo enerģiju?",
     choices: ["Choice A", "Choice B", "Choice C", "Choice D"],
     answer: null,
     explanation: ""
@@ -249,7 +249,7 @@ window.QUESTIONS = [
   {
     id: 29,
     topic: "",
-    prompt: "Question 29",
+    prompt: "Ar ko atšķiras horizontālās un vertikālās ass turbīnas?",
     choices: ["Choice A", "Choice B", "Choice C", "Choice D"],
     answer: null,
     explanation: ""
@@ -257,7 +257,7 @@ window.QUESTIONS = [
   {
     id: 30,
     topic: "",
-    prompt: "Question 30",
+    prompt: "Kā darbojas horizontālās ass plūdmaiņu turbīna?",
     choices: ["Choice A", "Choice B", "Choice C", "Choice D"],
     answer: null,
     explanation: ""
@@ -265,7 +265,7 @@ window.QUESTIONS = [
   {
     id: 31,
     topic: "",
-    prompt: "Question 31",
+    prompt: "Kāda ir atšķirība starp plūdmaiņu aizsprostu un zemūdens plūdmaiņu turbīnu?",
     choices: ["Choice A", "Choice B", "Choice C", "Choice D"],
     answer: null,
     explanation: ""
@@ -273,7 +273,7 @@ window.QUESTIONS = [
   {
     id: 32,
     topic: "",
-    prompt: "Question 32",
+    prompt: "Nosauc trīs galvenās plūdmaiņu enerģijas priekšrocības un trūkumus.",
     choices: ["Choice A", "Choice B", "Choice C", "Choice D"],
     answer: null,
     explanation: ""
@@ -281,7 +281,7 @@ window.QUESTIONS = [
   {
     id: 33,
     topic: "",
-    prompt: "Question 33",
+    prompt: "Kas ir ģeotermālā enerģija, un kāds ir tās galvenais avots Zemes dzīlēs?",
     choices: ["Choice A", "Choice B", "Choice C", "Choice D"],
     answer: null,
     explanation: ""
@@ -289,7 +289,7 @@ window.QUESTIONS = [
   {
     id: 34,
     topic: "",
-    prompt: "Question 34",
+    prompt: "Kāpēc ģeotermālo enerģiju uzskata par samērā stabilu un no laikapstākļiem maz atkarīgu enerģijas avotu?",
     choices: ["Choice A", "Choice B", "Choice C", "Choice D"],
     answer: null,
     explanation: ""
@@ -297,7 +297,7 @@ window.QUESTIONS = [
   {
     id: 35,
     topic: "",
-    prompt: "Question 35",
+    prompt: "Kāda ir atšķirība starp seklās ģeotermālās enerģijas izmantošanu ar siltumsūkņiem un dziļās ģeotermālās enerģijas ieguvi?",
     choices: ["Choice A", "Choice B", "Choice C", "Choice D"],
     answer: null,
     explanation: ""
@@ -305,7 +305,7 @@ window.QUESTIONS = [
   {
     id: 36,
     topic: "",
-    prompt: "Question 36",
+    prompt: "Kā darbojas zemes siltumsūknis, un kādas ir tā galvenās sastāvdaļas?",
     choices: ["Choice A", "Choice B", "Choice C", "Choice D"],
     answer: null,
     explanation: ""
@@ -313,7 +313,7 @@ window.QUESTIONS = [
   {
     id: 37,
     topic: "",
-    prompt: "Question 37",
+    prompt: "Kādas augu eļļas iespējams izmantot enerģijas ieguvei un transportā?",
     choices: ["Choice A", "Choice B", "Choice C", "Choice D"],
     answer: null,
     explanation: ""
@@ -321,7 +321,7 @@ window.QUESTIONS = [
   {
     id: 38,
     topic: "",
-    prompt: "Question 38",
+    prompt: "Kā iegūst augu eļļu no eļļas augiem, piemēram, rapša?",
     choices: ["Choice A", "Choice B", "Choice C", "Choice D"],
     answer: null,
     explanation: ""
@@ -329,7 +329,7 @@ window.QUESTIONS = [
   {
     id: 39,
     topic: "",
-    prompt: "Question 39",
+    prompt: "Kāda ir atšķirība starp tīru augu eļļu un biodīzeļdegvielu?",
     choices: ["Choice A", "Choice B", "Choice C", "Choice D"],
     answer: null,
     explanation: ""
@@ -337,7 +337,7 @@ window.QUESTIONS = [
   {
     id: 40,
     topic: "",
-    prompt: "Question 40",
+    prompt: "Kāpēc parastu augu eļļu nevar izmantot jebkurā dīzeļdzinējā?",
     choices: ["Choice A", "Choice B", "Choice C", "Choice D"],
     answer: null,
     explanation: ""
@@ -345,7 +345,7 @@ window.QUESTIONS = [
   {
     id: 41,
     topic: "",
-    prompt: "Question 41",
+    prompt: "Kādas izmaiņas dzinējā vai degvielas sistēmā var būt nepieciešamas, izmantojot tīru augu eļļu?",
     choices: ["Choice A", "Choice B", "Choice C", "Choice D"],
     answer: null,
     explanation: ""
@@ -353,7 +353,7 @@ window.QUESTIONS = [
   {
     id: 42,
     topic: "",
-    prompt: "Question 42",
+    prompt: "Kas ir bioetanols, un no kādām izejvielām to ražo?",
     choices: ["Choice A", "Choice B", "Choice C", "Choice D"],
     answer: null,
     explanation: ""
@@ -361,7 +361,7 @@ window.QUESTIONS = [
   {
     id: 43,
     topic: "",
-    prompt: "Question 43",
+    prompt: "Kādi ir galvenie bioetanola ražošanas procesa posmi?",
     choices: ["Choice A", "Choice B", "Choice C", "Choice D"],
     answer: null,
     explanation: ""
@@ -369,7 +369,7 @@ window.QUESTIONS = [
   {
     id: 44,
     topic: "",
-    prompt: "Question 44",
+    prompt: "Kāda nozīme bioetanola ražošanā ir fermentācijai?",
     choices: ["Choice A", "Choice B", "Choice C", "Choice D"],
     answer: null,
     explanation: ""
@@ -377,7 +377,7 @@ window.QUESTIONS = [
   {
     id: 45,
     topic: "",
-    prompt: "Question 45",
+    prompt: "Kāda ir pirmās un otrās paaudzes bioetanola atšķirība?",
     choices: ["Choice A", "Choice B", "Choice C", "Choice D"],
     answer: null,
     explanation: ""
@@ -385,7 +385,7 @@ window.QUESTIONS = [
   {
     id: 46,
     topic: "",
-    prompt: "Question 46",
+    prompt: "Kā bioetanola pievienošana benzīnam ietekmē degvielas īpašības un dzinēja darbību?",
     choices: ["Choice A", "Choice B", "Choice C", "Choice D"],
     answer: null,
     explanation: ""
@@ -393,7 +393,7 @@ window.QUESTIONS = [
   {
     id: 47,
     topic: "",
-    prompt: "Question 47",
+    prompt: "Kas ir biodīzeļdegviela, un no kādām izejvielām to var ražot?",
     choices: ["Choice A", "Choice B", "Choice C", "Choice D"],
     answer: null,
     explanation: ""
@@ -401,7 +401,7 @@ window.QUESTIONS = [
   {
     id: 48,
     topic: "",
-    prompt: "Question 48",
+    prompt: "Kā darbojas eļļu un tauku pāresterificēšanas process?",
     choices: ["Choice A", "Choice B", "Choice C", "Choice D"],
     answer: null,
     explanation: ""
@@ -409,7 +409,7 @@ window.QUESTIONS = [
   {
     id: 49,
     topic: "",
-    prompt: "Question 49",
+    prompt: "Kāda ir metanola vai etanola un katalizatora nozīme biodīzeļdegvielas ražošanā?",
     choices: ["Choice A", "Choice B", "Choice C", "Choice D"],
     answer: null,
     explanation: ""
@@ -417,7 +417,7 @@ window.QUESTIONS = [
   {
     id: 50,
     topic: "",
-    prompt: "Question 50",
+    prompt: "Kādas ir galvenās atšķirības starp biodīzeļdegvielu un fosilo dīzeļdegvielu?",
     choices: ["Choice A", "Choice B", "Choice C", "Choice D"],
     answer: null,
     explanation: ""
@@ -425,7 +425,7 @@ window.QUESTIONS = [
   {
     id: 51,
     topic: "",
-    prompt: "Question 51",
+    prompt: "Kā biodīzeļdegvielas izmantošana ietekmē dzinēja emisijas un degvielas patēriņu?",
     choices: ["Choice A", "Choice B", "Choice C", "Choice D"],
     answer: null,
     explanation: ""
@@ -433,7 +433,7 @@ window.QUESTIONS = [
   {
     id: 52,
     topic: "",
-    prompt: "Question 52",
+    prompt: "Kādas problēmas biodīzeļdegvielas izmantošanā var rasties zemā temperatūrā?",
     choices: ["Choice A", "Choice B", "Choice C", "Choice D"],
     answer: null,
     explanation: ""
@@ -441,7 +441,7 @@ window.QUESTIONS = [
   {
     id: 53,
     topic: "",
-    prompt: "Question 53",
+    prompt: "Kāpēc lietotu pārtikas eļļu un atkritumu tauku izmantošana var būt ilgtspējīgāka nekā īpaši degvielas ražošanai audzētu kultūraugu izmantošana?",
     choices: ["Choice A", "Choice B", "Choice C", "Choice D"],
     answer: null,
     explanation: ""
@@ -449,7 +449,7 @@ window.QUESTIONS = [
   {
     id: 54,
     topic: "",
-    prompt: "Question 54",
+    prompt: "Kas ir biogāze, un kādas ir tās galvenās sastāvdaļas?",
     choices: ["Choice A", "Choice B", "Choice C", "Choice D"],
     answer: null,
     explanation: ""
@@ -457,7 +457,7 @@ window.QUESTIONS = [
   {
     id: 55,
     topic: "",
-    prompt: "Question 55",
+    prompt: "Kā notiek anaerobā fermentācija, un kāda ir mikroorganismu loma šajā procesā?",
     choices: ["Choice A", "Choice B", "Choice C", "Choice D"],
     answer: null,
     explanation: ""
@@ -465,7 +465,7 @@ window.QUESTIONS = [
   {
     id: 56,
     topic: "",
-    prompt: "Question 56",
+    prompt: "Kādas izejvielas iespējams izmantot biogāzes ražošanai?",
     choices: ["Choice A", "Choice B", "Choice C", "Choice D"],
     answer: null,
     explanation: ""
@@ -473,7 +473,7 @@ window.QUESTIONS = [
   {
     id: 57,
     topic: "",
-    prompt: "Question 57",
+    prompt: "Kāda ir atšķirība starp biogāzi un biometānu?",
     choices: ["Choice A", "Choice B", "Choice C", "Choice D"],
     answer: null,
     explanation: ""
@@ -481,7 +481,7 @@ window.QUESTIONS = [
   {
     id: 58,
     topic: "",
-    prompt: "Question 58",
+    prompt: "Kā biogāzi izmanto elektroenerģijas, siltuma un transporta degvielas ražošanai?",
     choices: ["Choice A", "Choice B", "Choice C", "Choice D"],
     answer: null,
     explanation: ""
@@ -489,7 +489,7 @@ window.QUESTIONS = [
   {
     id: 59,
     topic: "",
-    prompt: "Question 59",
+    prompt: "Kādas ir biogāzes staciju priekšrocības lauksaimniecībā un organisko atkritumu apsaimniekošanā?",
     choices: ["Choice A", "Choice B", "Choice C", "Choice D"],
     answer: null,
     explanation: ""
@@ -497,7 +497,7 @@ window.QUESTIONS = [
   {
     id: 60,
     topic: "",
-    prompt: "Question 60",
+    prompt: "Kā metāna noplūdes un digestāta apsaimniekošana ietekmē biogāzes ražošanas ilgtspēju?",
     choices: ["Choice A", "Choice B", "Choice C", "Choice D"],
     answer: null,
     explanation: ""
@@ -505,7 +505,7 @@ window.QUESTIONS = [
   {
     id: 61,
     topic: "",
-    prompt: "Question 61",
+    prompt: "Kā darbojas atomelektrostacija, un kāda ir kodola skaldīšanas nozīme elektroenerģijas ražošanā?",
     choices: ["Choice A", "Choice B", "Choice C", "Choice D"],
     answer: null,
     explanation: ""
@@ -513,7 +513,7 @@ window.QUESTIONS = [
   {
     id: 62,
     topic: "",
-    prompt: "Question 62",
+    prompt: "Kāda ir kodolreaktora, tvaika turbīnas un ģeneratora funkcija?",
     choices: ["Choice A", "Choice B", "Choice C", "Choice D"],
     answer: null,
     explanation: ""
@@ -521,7 +521,7 @@ window.QUESTIONS = [
   {
     id: 63,
     topic: "",
-    prompt: "Question 63",
+    prompt: "Kāpēc atomelektrostacijas elektroenerģijas ražošanā rada salīdzinoši maz siltumnīcefekta gāzu emisiju?",
     choices: ["Choice A", "Choice B", "Choice C", "Choice D"],
     answer: null,
     explanation: ""
@@ -529,7 +529,7 @@ window.QUESTIONS = [
   {
     id: 64,
     topic: "",
-    prompt: "Question 64",
+    prompt: "Kādi ir atomelektrostaciju galvenie ieguvumi un riski?",
     choices: ["Choice A", "Choice B", "Choice C", "Choice D"],
     answer: null,
     explanation: ""
@@ -537,7 +537,7 @@ window.QUESTIONS = [
   {
     id: 65,
     topic: "",
-    prompt: "Question 65",
+    prompt: "Kādi faktori būtu jāizvērtē, lemjot par atomelektrostacijas būvniecību Latvijā vai Baltijas reģionā?",
     choices: ["Choice A", "Choice B", "Choice C", "Choice D"],
     answer: null,
     explanation: ""
@@ -545,7 +545,7 @@ window.QUESTIONS = [
   {
     id: 66,
     topic: "",
-    prompt: "Question 66",
+    prompt: "Kā iegūst ūdeņradi, izmantojot elektrolīzi?",
     choices: ["Choice A", "Choice B", "Choice C", "Choice D"],
     answer: null,
     explanation: ""
@@ -553,7 +553,7 @@ window.QUESTIONS = [
   {
     id: 67,
     topic: "",
-    prompt: "Question 67",
+    prompt: "Kāda ir atšķirība starp zaļo, pelēko un zilo ūdeņradi?",
     choices: ["Choice A", "Choice B", "Choice C", "Choice D"],
     answer: null,
     explanation: ""
@@ -561,7 +561,7 @@ window.QUESTIONS = [
   {
     id: 68,
     topic: "",
-    prompt: "Question 68",
+    prompt: "Kā ūdeņradi iespējams izmantot kurināmā elementos un elektroenerģijas ražošanā?",
     choices: ["Choice A", "Choice B", "Choice C", "Choice D"],
     answer: null,
     explanation: ""
@@ -569,7 +569,7 @@ window.QUESTIONS = [
   {
     id: 69,
     topic: "",
-    prompt: "Question 69",
+    prompt: "Kādas ir ūdeņraža izmantošanas priekšrocības un trūkumi salīdzinājumā ar akumulatoriem?",
     choices: ["Choice A", "Choice B", "Choice C", "Choice D"],
     answer: null,
     explanation: ""
@@ -577,7 +577,7 @@ window.QUESTIONS = [
   {
     id: 70,
     topic: "",
-    prompt: "Question 70",
+    prompt: "Kādas problēmas rada ūdeņraža uzglabāšana, transportēšana un uzpildes infrastruktūras izveide?",
     choices: ["Choice A", "Choice B", "Choice C", "Choice D"],
     answer: null,
     explanation: ""
@@ -585,7 +585,7 @@ window.QUESTIONS = [
   {
     id: 71,
     topic: "",
-    prompt: "Question 71",
+    prompt: "Kurās nozarēs ūdeņradis varētu būt īpaši noderīgs Latvijas enerģētikā un rūpniecībā?",
     choices: ["Choice A", "Choice B", "Choice C", "Choice D"],
     answer: null,
     explanation: ""
