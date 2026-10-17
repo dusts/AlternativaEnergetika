@@ -2,10 +2,10 @@
 name: exam-bank
 description: >
   Maintain the Alternativa Energetika exam question bank in questions.js.
-  Use when editing questions, comparing a pasted or photographed question list,
-  updating the README after a bank change, or pushing this repo to GitHub.
-  Triggers: "update questions", "check the list", "update md", "update github",
-  and /exam-bank.
+  Use when editing questions, model answers, or the LV/EN wording, comparing a
+  pasted or photographed question list, updating the README after a bank change,
+  or pushing this repo to GitHub. Triggers: "update questions", "check the list",
+  "update md", "update github", and /exam-bank.
 ---
 
 # Exam bank
@@ -15,15 +15,15 @@ description: >
 ## Bank rules
 
 - Keep ids `1` through `71`. Do not renumber them.
-- The prompts are open questions in Latvian.
-- Leave `choices` as the current placeholders until the user supplies real options.
-- Leave `answer` as `null` until the user supplies a key. `"A"`–`"D"` and `0`–`3` are the same positions.
-- Leave `topic` and `explanation` empty unless the user sets them.
-- When the bank changes, update `README.md` so it still matches: real prompts, no answer keys yet, placeholder choices.
+- `prompt` stays the existing Latvian question. `promptEn` is the English question.
+- `explanation` is the Latvian model answer. `explanationEn` is the English model answer. Both are study samples, not an official exam key.
+- Leave `choices` as `[]` and `answer` as `null` unless the user supplies real options. `"A"`–`"D"` and `0`–`3` are the same positions.
+- `topic` is the Latvian group name and the filter key. `topicEn` is the English group name.
+- When the bank changes, update `README.md` so it still matches: bilingual prompts, model answers in both languages, empty choices, `answer` null, and self-marked open questions.
 
 ## Comparing a list
 
-Compare prompts after `window.QUESTIONS`, in id order. Skip the example in the file comment.
+Compare `prompt` values after `window.QUESTIONS`, in id order. Skip the example in the file comment.
 
 Report only the mismatches. Do not edit `questions.js` unless the user says that other list is the one to keep.
 

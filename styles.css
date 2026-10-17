@@ -105,6 +105,7 @@ button { cursor: pointer; }
 .topbar, .session-head {
   display: flex;
   align-items: center;
+  flex-wrap: wrap;
   gap: 12px;
 }
 
@@ -216,6 +217,13 @@ h1 {
 
 .btn.primary .btn-note { color: inherit; opacity: 0.8; }
 
+.btn.is-again {
+  background: var(--bad);
+  border-color: var(--bad);
+  color: var(--on-bad);
+  font-weight: 650;
+}
+
 .banner {
   margin: 16px 0 0;
   padding: 12px 14px;
@@ -285,6 +293,15 @@ h1 {
   border-color: var(--accent);
   color: var(--accent-ink);
 }
+
+.lang {
+  display: inline-flex;
+  gap: 4px;
+  margin-left: auto;
+  flex: 0 0 auto;
+}
+
+.lang .chip { min-height: 40px; }
 
 .q-list { max-height: none; }
 
@@ -502,6 +519,26 @@ h1 {
   margin-top: 6px;
   white-space: pre-wrap;
   overflow-wrap: anywhere;
+}
+
+.feedback.model h2 { color: var(--accent); }
+
+.answer-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 18px;
+}
+
+.answer-actions .btn {
+  flex: 1 1 140px;
+  text-align: center;
+}
+
+.hint {
+  margin-top: 10px;
+  color: var(--muted);
+  font-size: 14px;
 }
 
 .session-nav {
